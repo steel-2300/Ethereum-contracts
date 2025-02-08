@@ -1,25 +1,3 @@
-/*
-
-     OOOOOOOOO                  GGGGGGGGGGGGG
-   OO:::::::::OO             GGG::::::::::::G
- OO:::::::::::::OO         GG:::::::::::::::G
-O:::::::OOO:::::::O       G:::::GGGGGGGG::::G
-O::::::O   O::::::O      G:::::G       GGGGGG
-O:::::O     O:::::O     G:::::G              
-O:::::O     O:::::O     G:::::G              
-O:::::O     O:::::O     G:::::G    GGGGGGGGGG
-O:::::O     O:::::O     G:::::G    G::::::::G
-O:::::O     O:::::O     G:::::G    GGGGG::::G
-O:::::O     O:::::O     G:::::G        G::::G
-O::::::O   O::::::O      G:::::G       G::::G
-O:::::::OOO:::::::O       G:::::GGGGGGGG::::G
- OO:::::::::::::OO         GG:::::::::::::::G
-   OO:::::::::OO             GGG::::::GGG:::G
-     OOOOOOOOO                  GGGGGG   GGGG
-     
-*/
-
-// SPDX-License-Identifier: MIT
 
 pragma solidity 0.8.0;
 
